@@ -9,3 +9,5 @@ Shopping list for ingredients
 ### Recipe
 Instructions for making Guacamole
 
+### Extra titbits!!!
+Make your guac even better
