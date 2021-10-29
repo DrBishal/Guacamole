@@ -6,6 +6,6 @@ repository for recipe and some random python code
 ### Ingredients
 Shppoinglist for ingredients
 
-#### Recipe
+### Recipe
 Instructions for making Guacamole
 
